@@ -8,7 +8,7 @@
 
 IDE:
 
-* **Желательно** Visual Studio Communuty 2015-2017 - 
+* **Желательно** Visual Studio Communuty 2017-2019 - 
 	http://msdn.miet.ru или
 	https://www.microsoft.com/ru-ru/SoftMicrosoft/vs2015Community.aspx
 * Xamarin Studio
